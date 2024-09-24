@@ -1,0 +1,15 @@
+port: "8080"
+
+log:
+  level: info
+
+mongodb:
+  uri: "mongodb://mongo:27017"
+  database: "petProjectMongoDB"
+
+redis:
+  uri: "redis:6379"
+
+salt: "maklaud57"
+secretKey: "JeksyJohns"
+signingKay: "123123"
